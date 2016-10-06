@@ -1,5 +1,10 @@
 {
     "name": "hagishi/niku",
     "description": "package test",
-    "require": {}
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Niku\\": "src"
+      }
+    }
 }
