@@ -4,7 +4,7 @@
     "require": {},
     "autoload": {
       "psr-4": {
-        "Niku\\": "src/"
+        "Niku\\": "src/Niku"
       }
     }
 }
